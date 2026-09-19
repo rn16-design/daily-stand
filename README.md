@@ -1,9 +1,11 @@
 # daily Stand public support site
 
-公開先予定:
+公開先:
 
-- Top: https://rn16-design.github.io/daily-stand/
-- Privacy Policy: https://rn16-design.github.io/daily-stand/privacy.html
-- Support: https://rn16-design.github.io/daily-stand/support.html
+- Top: https://daily-stand.vercel.app/
+- Privacy Policy: https://daily-stand.vercel.app/privacy
+- Support: https://daily-stand.vercel.app/support
 
-このディレクトリの内容を公開リポジトリ `rn16-design/daily-stand` のルートへ配置し、GitHub Pagesを有効化する。
+Vercel project: `daily-stand`
+
+Source: `rn16-design/daily-stand` / `main`
